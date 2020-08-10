@@ -1,6 +1,5 @@
 # guincho-rc
-
-# Arquivo arduino para guinchos planadores r/c  controlados por receptores
+## Código fonte do Arduino para construção de um um Guincho para planadores R/C com acionamento por receptores tradicionais;
 ### PPM
 ### PWM
 
