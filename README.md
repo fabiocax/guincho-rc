@@ -4,6 +4,9 @@
 ### PPM
 ### PWM
 
-# Receveir, 
+Porta arduino receiver = 6;
+Porta rele = 5;
+Porta buz = 9;
+
 
 ![alt text](https://raw.githubusercontent.com/fabiocax/guincho-rc/master/esquema.png)
