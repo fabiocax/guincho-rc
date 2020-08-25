@@ -48,7 +48,7 @@ void loop() {
         lastReadChannel[i] = channel[i];
       }
     }
-    if (channel[5] > 1000){
+    if (channel[5] > 1500){
       //digitalWrite(13, HIGH);
       digitalWrite(porta_rele1, LOW);  //Liga rele 1
       
